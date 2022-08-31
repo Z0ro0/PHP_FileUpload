@@ -1,0 +1,22 @@
+1. input: 한 줄 입력 시 사용
+1)text
+2)password
+3)button
+4)submit
+5)checkbox:중복 선택 (name 동일하게)
+6)radio:하나 선택 (name 동일하게)
+7)number
+8)color
+9)email<input type="email"/>
+10)file
+11)reset:취소하기
+
+
+2. select: 콤보박스 만들기 (여러개 선택: multiple 추가)
+
+3. datalist
+
+4. textarea
+
+5. button
+<input type="submit" value = "제출하기>
